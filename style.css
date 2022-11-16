@@ -46,8 +46,8 @@ body {
     flex-direction: row;
     gap: 50px;
     align-items: center;
-    margin: 10px 100px 10px 100px;
-    background-color: aqua;
+    margin: 10px 10px 10px 10px;
+    background-color: none;
 }
 
 .conteudo-principal-escrito {
@@ -89,7 +89,7 @@ body {
 }
 
 .conteudo-principal-imagem{
-    height: 630px;
+    height: 25em;
 }
 
 .rodape{
